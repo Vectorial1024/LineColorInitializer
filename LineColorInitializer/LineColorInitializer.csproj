@@ -63,6 +63,7 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="ColorListing.cs" />
         <Compile Include="LineColorInitializer.cs" />
         <Compile Include="PatchController.cs" />
         <Compile Include="PatchTransportManagerCreateLine.cs" />

@@ -1,6 +1,5 @@
 using HarmonyLib;
 using JetBrains.Annotations;
-using UnityEngine;
 
 namespace LineColorInitializer
 {
@@ -11,7 +10,7 @@ namespace LineColorInitializer
     {
         [UsedImplicitly]
         [HarmonyPostfix]
-        public static void InitializeLineColor(bool __result, ushort lineID)
+        public static void InitializeLineColor(TransportManager __instance, bool __result, ushort lineID)
         {
             if (!__result)
             {
@@ -19,8 +18,10 @@ namespace LineColorInitializer
                 return;
             }
 
-            // Created new line; print for now
-            Debug.LogError($"Line created: {lineID}");
+            // Created new line
+            // Note that this triggers when the line tool first places a stop, which is still acceptable.
+            var randomColor = ColorListing.GetRandomColor();
+            __instance.m_lines.m_buffer[lineID].m_color = randomColor;
         }
     }
 }
