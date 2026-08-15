@@ -31,7 +31,7 @@ This mod does not accept custom color lists, but do you really need those custom
 
 Note: Transport Lines Manager already has a custom line color initializer, so don't use this mod together with TLM.
 
-Note: no district-level automation; those are left for players to specify, or for future mods to implement.
+Note: no district-level automation (color/name); those are left for players to specify, or for future mods to implement.
 
 [h1]GitHub Repo[/h1]
 This mod is source-available, and the repo is here: https://github.com/Vectorial1024/LineColorInitializer
