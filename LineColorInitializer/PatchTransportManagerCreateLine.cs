@@ -22,6 +22,7 @@ namespace LineColorInitializer
             // Note that this triggers when the line tool first places a stop, which is still acceptable.
             var randomColor = ColorListing.GetRandomColor();
             __instance.m_lines.m_buffer[lineID].m_color = randomColor;
+            __instance.m_lines.m_buffer[lineID].m_flags |= TransportLine.Flags.CustomColor;
         }
     }
 }
