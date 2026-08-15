@@ -1,9 +1,11 @@
 # Line Color Initializer
 A Cities Skylines mod to initialize public transport lines with a random color. A zero-config solution to color choice paralysis.
 
-This is to provide a simple modern remake of the following first-generation mods:
+This is to provide a simple modern remake/reimagination of the following first-generation mods:
 
-- (...)
+- TransportLineColorMod (2015) by tuopppi
+- Auto Line Color (2015) by enkafan and FrF
+- AutoLineColor Redux (2018) by TaradinoC
 
 Salute to the departed forebears, as we venture into the future.
 
@@ -12,8 +14,9 @@ Salute to the departed forebears, as we venture into the future.
 - Requires Harmony
 - Compatible with:
   - Improved Public Transport Essentials ("IPTE")
+- Incompatible with:
   - Transport Lines Manager ("TLM")
-    - (...)
+    - TLM has custom built-in line color initialization; you should use that
 
 ## Mod Effects
 
