@@ -36,3 +36,5 @@ This mod fires only once during public transport line creation, which is a game-
 This means this mod does not cause continuous lag on your cities, unlike the legacy mods (which hooks onto the simulation step to regularly loop over your public transport lines).
 
 This also means this mod (at least at this stage) will never handle district-level color/name standardization, because that requires information not available during initialization.
+
+This mod also does not allow color customization. The CSS color list should be an excellent "starter list" for later (manual) fine-tuning.
