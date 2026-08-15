@@ -27,6 +27,8 @@ This mod is very simple. This mod picks a random color from the CSS named colors
 
 CSS named colors list: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
 
+This mod does not accept custom color lists, but do you really need those custom lists, when the standard CSS list already has about 150 colors?
+
 Note: Transport Lines Manager already has a custom line color initializer, so don't use this mod together with TLM.
 
 Note: no district-level automation; those are left for players to specify, or for future mods to implement.
