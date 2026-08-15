@@ -12,7 +12,7 @@ namespace LineColorInitializer
             // Populate the list with the 150+ CSS colors
             _cssColors.Add(new Color32(240, 248, 255, 255)); // AliceBlue (#F0F8FF)
             _cssColors.Add(new Color32(250, 235, 215, 255)); // AntiqueWhite (#FAEBD7)
-            _cssColors.Add(new Color32(0, 255, 255, 255));   // Aqua (#00FFFF)
+            _cssColors.Add(new Color32(0, 255, 255, 255));   // Aqua / Cyan (#00FFFF)
             _cssColors.Add(new Color32(127, 255, 212, 255)); // Aquamarine (#7FFFD4)
             _cssColors.Add(new Color32(240, 255, 255, 255)); // Azure (#F0FFFF)
             _cssColors.Add(new Color32(245, 245, 220, 255)); // Beige (#F5F5DC)
@@ -30,7 +30,6 @@ namespace LineColorInitializer
             _cssColors.Add(new Color32(100, 149, 237, 255)); // CornflowerBlue (#6495ED)
             _cssColors.Add(new Color32(255, 248, 220, 255)); // Cornsilk (#FFF8DC)
             _cssColors.Add(new Color32(220, 20, 60, 255));   // Crimson (#DC143C)
-            _cssColors.Add(new Color32(0, 255, 255, 255));   // Cyan (#00FFFF)
             _cssColors.Add(new Color32(0, 0, 139, 255));     // DarkBlue (#00008B)
             _cssColors.Add(new Color32(0, 139, 139, 255));   // DarkCyan (#008B8B)
             _cssColors.Add(new Color32(184, 134, 11, 255));  // DarkGoldenRod (#B8860B)
