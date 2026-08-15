@@ -65,6 +65,7 @@
     <ItemGroup>
         <Compile Include="LineColorInitializer.cs" />
         <Compile Include="PatchController.cs" />
+        <Compile Include="PatchTransportManagerCreateLine.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <ItemGroup>
