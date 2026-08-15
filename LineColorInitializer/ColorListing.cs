@@ -5,12 +5,6 @@ namespace LineColorInitializer
 {
     public class ColorListing
     {
-        public struct ColorEntry
-        {
-            public string Name;
-            public Color32 Color;
-        }
-
         private static List<Color32> _cssColors = new List<Color32>();
 
         static ColorListing()
