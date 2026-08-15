@@ -1,0 +1,40 @@
+Random colors for public transport lines, before putting down stops.
+
+[img]https://i.imgur.com/1EqyarL.png[/img]
+
+[h1]Quick Info[/h1]
+[list]
+[*]Requires Harmony
+[*]Greatly inspired by legacy mods (see below)
+[*]Picks a random CSS color for your new public transport lines
+[*]Companion of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3714961481]Improved Public Transport Essentials[/url]
+[/list]
+
+[h1]Restoring the Legacy[/h1]
+This mod is a simple modern reimagination of the following first-generation mods:
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=409865621]TransportLineColorMod[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=408760323]Auto Line Color[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1415090282]TransportLineColorMod[/url]
+[/list]
+
+The legacy mods are often reported as not working, and this mod has an alternative approach.
+
+Salute to the departed forebears, as we venture into the future.
+
+[h1]Mod Effects[/h1]
+This mod is very simple. This mod picks a random color from the CSS named colors list for your public transport lines. That's it.
+
+CSS named colors list: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
+
+Note: Transport Lines Manager already has a custom line color initializer, so don't use this mod together with TLM.
+
+Note: no district-level automation; those are left for players to specify, or for future mods to implement.
+
+[h1]GitHub Repo[/h1]
+This mod is source-available, and the repo is here: https://github.com/Vectorial1024/LineColorInitializer
+
+最後，歡迎各位加入香港Cities Skylines Discord群組：
+https://discord.gg/KeSDDydjSB
+
+And that's all!
