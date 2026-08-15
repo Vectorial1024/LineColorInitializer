@@ -3,9 +3,9 @@ A Cities Skylines mod to initialize public transport lines with a random color. 
 
 This is to provide a simple modern remake/reimagination of the following first-generation mods:
 
-- TransportLineColorMod (2015) by tuopppi
-- Auto Line Color (2015) by enkafan and FrF
-- AutoLineColor Redux (2018) by TaradinoC
+- TransportLineColorMod (2015, [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=409865621)) by tuopppi
+- Auto Line Color (2015, [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=408760323)) by enkafan and FrF
+- AutoLineColor Redux (2018, [Steam Workshop](https://steamcommunity.com/workshop/filedetails/?id=1415090282)) by TaradinoC
 
 Salute to the departed forebears, as we venture into the future.
 
