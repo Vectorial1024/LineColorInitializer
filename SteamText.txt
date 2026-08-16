@@ -36,7 +36,7 @@ Note: no district-level automation (color/name); those are left for players to s
 [h1]GitHub Repo[/h1]
 This mod is source-available, and the repo is here: https://github.com/Vectorial1024/LineColorInitializer
 
-最後，歡迎各位加入香港Cities Skylines Discord群組：
+最後，歡迎各位加入香港 Cities Skylines Discord 群組：
 https://discord.gg/KeSDDydjSB
 
 And that's all!
