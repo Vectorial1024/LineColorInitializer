@@ -17,7 +17,6 @@ This mod is a simple modern reimagination of the following first-generation mods
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=408760323]Auto Line Color[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1415090282]Auto Line Color Redux[/url]
 [/list]
-
 The legacy mods are often reported as not working, and this mod has an alternative approach.
 
 Salute to the departed forebears, as we venture into the future.
@@ -25,7 +24,7 @@ Salute to the departed forebears, as we venture into the future.
 [h1]Mod Effects[/h1]
 This mod is very simple. This mod picks a random color from the CSS named colors list for your public transport lines. That's it.
 
-CSS named colors list: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color
+CSS named colors list: [url=https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color]Mozilla MDN Web Docs[/url]
 
 This mod does not accept custom color lists, but do you really need those custom lists, when the standard CSS list already has about 150 colors?
 
