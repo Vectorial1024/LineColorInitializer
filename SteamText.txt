@@ -15,7 +15,7 @@ This mod is a simple modern reimagination of the following first-generation mods
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=409865621]TransportLineColorMod[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=408760323]Auto Line Color[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1415090282]TransportLineColorMod[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1415090282]Auto Line Color Redux[/url]
 [/list]
 
 The legacy mods are often reported as not working, and this mod has an alternative approach.
